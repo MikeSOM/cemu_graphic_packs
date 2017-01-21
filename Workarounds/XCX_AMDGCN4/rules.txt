@@ -8,3 +8,10 @@ width = 320
 height = 180
 overwriteWidth = 0
 overwriteHeight = 0
+
+[TextureRedefine]
+width = 1280
+height = 720
+formats = 0x008 # remove Map Lights (AMD only)
+overwriteWidth = 0
+overwriteHeight = 0
